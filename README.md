@@ -1,13 +1,17 @@
-This repository contains my quick notes on [**reinforcement learning**](https://en.wikipedia.org/wiki/Reinforcement_learning), as well as code examples with [OpenAI Gym](https://openai.com/blog/openai-gym-beta/). 
+# Reinforcement Learning Notes and OpenAI Gym Examples 
 
 
 
-## Materials
+This repository contains my notes and code examples for learning reinforcement learning using OpenAI Gym. The notes are in Jupyter notebooks. 
+
+
+
+## Resources
 
 Textbooks: 
 
- * [**An Introduction to Reinforcement Learning by Sutton and Barto**](http://incompleteideas.net/book/RLbook2020.pdf) 
- * [Algorithms for Reinforcement Learning by Szepesvari](https://www.morganclaypool.com/doi/pdf/10.2200/S00268ED1V01Y201005AIM009?casa_token=6YCfS7Oe2H8AAAAA:ow_p4YEHySXdz10d6_8Q5tqYLmzpkLRbntsjFG7Ks9ILXt9GHgsciyQt__Z7VD4407_WOyuMZA)
+ * [**An Introduction to Reinforcement Learning**](http://incompleteideas.net/book/RLbook2020.pdf) 
+ * [Algorithms for Reinforcement Learning](https://www.morganclaypool.com/doi/pdf/10.2200/S00268ED1V01Y201005AIM009?casa_token=6YCfS7Oe2H8AAAAA:ow_p4YEHySXdz10d6_8Q5tqYLmzpkLRbntsjFG7Ks9ILXt9GHgsciyQt__Z7VD4407_WOyuMZA)
 
 Open Courses and Videos: 
 
@@ -17,6 +21,7 @@ Tools:
 
 * Python, Conda, Visual Studio Code
 * [**OpenAI Gym**](https://www.gymlibrary.dev)
+* [ChatGPT](https://chat.openai.com): A useful AI tool for answering math questions and generating code examples. 
 
 
 
