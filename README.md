@@ -6,6 +6,14 @@ This repository contains my notes and code examples for learning reinforcement l
 
 
 
+## Notes and code examples: 
+
+When (1) state space is discrete and small, and (2) system dynamic is known and simple: 
+
+* [Solving `FrozenLake-v1`: the Markov Decision Process Approach](notebooks/frozen-lake-discounted-mdp.ipynb)
+
+
+
 ## Resources
 
 Textbooks: 
